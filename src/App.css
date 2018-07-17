@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: #222;
+  height: 52vmax
+}
+
+#App-Title {
+  color: white;
+  font-size: 2vmax;
+  height: 6vmax;
+  padding: 1vmax;
+  margin-bottom: 3vmax;
+}
+
+.appHeader {
+  color: white;
+  font-size: 1.5vmax;
+  height: 3vmax;
+}
+
